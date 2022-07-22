@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+body{
+    display:block;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    position: relative;
+}
+#username,#email,#password,#confirmpassword{
+    background: rgb(185, 160, 160);
+}
+label{
+    color: blue;
+}
